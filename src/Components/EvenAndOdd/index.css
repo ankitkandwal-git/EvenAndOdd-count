@@ -1,0 +1,32 @@
+.app-container{
+  background-image: linear-gradient(#ff6e7f, #bfe9ff,  #334155);
+  height: 100vh;
+  background-size: cover;   
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading{
+    color: black;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  padding-top: 15px;
+}
+.button {
+  background-color: #ffffff;
+  height: 60px;
+  width: 90px;
+  border-radius: 6px;
+}
+.information {
+  color: #334155;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
